@@ -1,0 +1,19 @@
+{
+  "name": "electron-webview",
+  "version": "1.0.0",
+  "description": "webview Electron application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yasuo-/electron-webview.git"
+  },
+  "devDependencies": {
+    "electron": "~1.6.2"
+  },
+  "author": "",
+  "license": "ISC"
+}
